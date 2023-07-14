@@ -2,7 +2,7 @@
 
 ## FOSL contacts
 
-[:material-github: GitHub organization page](https://github.com/todo "GitHub profile")  
+[:material-github: GitHub organization page](https://github.com/Free-Open-Source-Learning "GitHub profile")  
 [:material-email: E-mail](mailto:shouldprobably@makeanaddres.lol)
 
 

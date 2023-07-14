@@ -4,10 +4,13 @@
 
 **FOSL** is a collection of free (both as in *freedom* and as in *free*) learning materials, ranging from notes to exercises to slides. Contributions always welcome and encouraged. Yes, we know that **for now** it's only STEM stuff, bear with us (or better, contribute if you're in the position to do so!).
 
+## WORK IN PROGRESS
+
+We're still in the midst of uploading stuff, so not all material is already available
+
 ## How to contribute
 
-* **New material:** [send us an e-mail](http://127.0.0.1:8000/contacts/) and we'll add you to the [GitHub organization](https://kekw.git
-).   
+* **New material:** [send us an e-mail](https://free-open-source-learning.github.io/fosl-site/contacts/) and we'll add you to the [GitHub organization](https://github.com/Free-Open-Source-Learning).   
     Requirements:
     1. A [GitHub](https://github.com) account (or at least someone willing to create and mantain the repo for you)
     2. Some material to share that won't get us in any legal trouble (pretty please)
