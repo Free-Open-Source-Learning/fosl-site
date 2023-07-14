@@ -34,10 +34,10 @@ Refer to [this page](https://free-open-source-learning.github.io/fosl-site/legen
      **Language:** :flag_gb:  
      **Status:** :yellow_circle:  [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")  
      **Comments:** Missing low-pass to high-pass transformation topic
- 2. [**Alessandro Marcelli - Simulazione di una linea di trasmissione** :material-git:](https://lmao.damettere/repo "Git repo")  
+ 2. [**Alessandro Marcelli - Simulazione di una linea di trasmissione** :material-git:](https://github.com/Free-Open-Source-Learning/linea-di-trasmissione "Git repo")  
      **Cathegory:** Lab report  
      **Language:** :flag_it:  
-     **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")  
+     **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/linea-di-trasmissione/blob/main/linea_di_trasmissione.pdf "PDF available")  
      **Comments:** 
  3. [**Alessandro Marcelli - Studio di un circuito a doppia maglia LC** :material-git:](https://lmao.damettere/repo "Git repo")  
      **Cathegory:** Lab report  
