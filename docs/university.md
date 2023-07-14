@@ -1,6 +1,6 @@
 # STEM
 
-Refer to [this page](http://127.0.0.1:8000/legend/) for legend table
+Refer to [this page](https://free-open-source-learning.github.io/fosl-site/legend/) for legend table
 
 ## Mathematics
 
