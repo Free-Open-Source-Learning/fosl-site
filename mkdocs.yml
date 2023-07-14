@@ -1,0 +1,47 @@
+site_name: FOSL
+site_url: https://fosl.github.io
+theme: 
+  name: material
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: switch to dark mode
+      primary: grey
+      accent: green
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-outline
+        name: switch to light mode
+      primary: grey
+      accent: green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+nav:
+    - Home: index.md
+    - High School: highschool.md
+    - STEM: university.md
+    - Legend: legend.md
+    - Contacts: contacts.md
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.snippets
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://kekw.git
+
