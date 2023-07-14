@@ -19,10 +19,10 @@ Refer to [this page](https://free-open-source-learning.github.io/fosl-site/legen
 
 ### Computational mathematics 
 
-1. [**Alessandro Marcelli - GMRES implementation in Fortran90** :material-git:](https://lmao.damettere/repo "Git repo")  
+1. [**Alessandro Marcelli - GMRES implementation in Fortran90** :material-git:](https://github.com/Free-Open-Source-Learning/GMRES-presentation "Git repo")  
      **Category:** Presentation  
      **Language:** :flag_gb:  
-     **Status:** :green_circle: [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")[:material-presentation:](https:/lmao.damettere/file.odt "ODT available")  
+     **Status:** :green_circle: [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/GMRES-presentation/blob/main/gmres.pdf "PDF available")[:material-presentation:](https://github.com/Free-Open-Source-Learning/GMRES-presentation/blob/main/gmres.odp "ODT available")  
      **Comments:**
 
 ## Phyisics
