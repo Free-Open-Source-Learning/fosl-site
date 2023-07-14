@@ -6,10 +6,10 @@ Refer to [this page](http://127.0.0.1:8000/legend/) for legend table
 
 ### General math
 
- 1. [**Alessandro Marcelli - Appunti di Analisi Vettoriale** :material-git:](https://lmao.damettere/repo "Git repo")   
+ 1. [**Alessandro Marcelli - Appunti di Analisi Vettoriale** :material-git:](https://github.com/Free-Open-Source-Learning/analisi-vettoriale "Git repo")   
      **Category:** Notes  
      **Language:** :flag_it:  
-     **Status:** :green_circle: [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available") [:fontawesome-solid-newspaper:]( "needing some transcription work")  
+     **Status:** :green_circle: [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/analisi-vettoriale/blob/main/analisi_vettoriale.pdf "PDF available") [:fontawesome-solid-newspaper:]( "needing some transcription work")  
      **Comments:** All theory correctly transcribed, some examples are just scanlated and pasted in  
  2. [**AA.VV. - Esercizi svolti di Metodi e Modelli Matematici per la Fisica 2** :material-git:  ](https://lmao.damettere/repo "Git repo")  
      **Category:** Exercises  
