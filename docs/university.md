@@ -44,10 +44,10 @@ Refer to [this page](https://free-open-source-learning.github.io/fosl-site/legen
      **Language:** :flag_it:  
      **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")  
      **Comments:** 
- 4. [**Alessandro Marcelli - Realizzazione di un filtro Passa-Banda Chebyshev del 7° ordine** :material-git:](https://lmao.damettere/repo "Git repo")  
+ 4. [**Alessandro Marcelli - Realizzazione di un filtro Passa-Banda Chebyshev del 7° ordine** :material-git:](https://github.com/Free-Open-Source-Learning/progettazione-passa-banda "Git repo")  
      **Cathegory:** Lab report  
      **Language:** :flag_it:  
-     **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")  
+     **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/progettazione-passa-banda/blob/main/Passa_banda.pdf "PDF available")  
      **Comments:** 
  5. [**Alessandro Marcelli - Studio di due filtri FIR Equiripple in cascata** :material-git:](https://lmao.damettere/repo "Git repo")  
      **Cathegory:** Lab report  
