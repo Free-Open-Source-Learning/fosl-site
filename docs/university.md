@@ -29,20 +29,20 @@ Refer to [this page](https://free-open-source-learning.github.io/fosl-site/legen
 
 ### Electronics
 
- 1. [**Alessandro Marcelli - Introduction to Type 1 Chebyshev filters** :material-git:  ](https://lmao.damettere/repo "Git repo")  
+ 1. [**Alessandro Marcelli - Introduction to Type 1 Chebyshev filters** :material-git:  ](https://github.com/Free-Open-Source-Learning/type-1-chebyshev "Git repo")  
      **Cathegory:** Notes  
      **Language:** :flag_gb:  
-     **Status:** :yellow_circle:  [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")  
+     **Status:** :yellow_circle:  [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/type-1-chebyshev/blob/main/chebyshev.pdf "PDF available")  
      **Comments:** Missing low-pass to high-pass transformation topic
  2. [**Alessandro Marcelli - Simulazione di una linea di trasmissione** :material-git:](https://github.com/Free-Open-Source-Learning/linea-di-trasmissione "Git repo")  
      **Cathegory:** Lab report  
      **Language:** :flag_it:  
      **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/linea-di-trasmissione/blob/main/linea_di_trasmissione.pdf "PDF available")  
      **Comments:** 
- 3. [**Alessandro Marcelli - Studio di un circuito a doppia maglia LC** :material-git:](https://lmao.damettere/repo "Git repo")  
+ 3. [**Alessandro Marcelli - Studio di un circuito a doppia maglia LC** :material-git:](https://github.com/Free-Open-Source-Learning/lc-circuits "Git repo")  
      **Cathegory:** Lab report  
      **Language:** :flag_it:  
-     **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")  
+     **Status:** :green_circle:  [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/lc-circuits/blob/main/rel2.pdf "PDF available")  
      **Comments:** 
  4. [**Alessandro Marcelli - Realizzazione di un filtro Passa-Banda Chebyshev del 7° ordine** :material-git:](https://github.com/Free-Open-Source-Learning/progettazione-passa-banda "Git repo")  
      **Cathegory:** Lab report  
