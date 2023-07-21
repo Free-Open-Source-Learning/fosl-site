@@ -11,10 +11,10 @@ Refer to [this page](https://free-open-source-learning.github.io/fosl-site/legen
      **Language:** :flag_it:  
      **Status:** :green_circle: [:fontawesome-solid-file-pdf:](https://github.com/Free-Open-Source-Learning/analisi-vettoriale/blob/main/analisi_vettoriale.pdf "PDF available") [:fontawesome-solid-newspaper:]( "needing some transcription work")  
      **Comments:** All theory correctly transcribed, some examples are just scanlated and pasted in  
- 2. [**AA.VV. - Esercizi svolti di Metodi e Modelli Matematici per la Fisica 2** :material-git:  ](https://lmao.damettere/repo "Git repo")  
+ 2. [**AA.VV. - Esercizi svolti di Metodi e Modelli Matematici per la Fisica 2** :material-git:  ](https://github.com/almar92/esercizi_metodi_2 "Git repo")  
      **Category:** Exercises  
      **Language:** :flag_it:  
-     **Status:** :yellow_circle: [:fontawesome-solid-file-pdf:](https://lmao.damettere/doc.pdf "PDF available")  
+     **Status:** :yellow_circle: [:fontawesome-solid-file-pdf:](https://github.com/almar92/esercizi_metodi_2/blob/main/esercizi_metodi.pdf "PDF available")  
      **Comments:** WIP? This is the kind of project that never really ends lmao, but here's enough stuff to pass the written test
 
 ### Computational mathematics 
